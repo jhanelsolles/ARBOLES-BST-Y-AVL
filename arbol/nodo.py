@@ -3,3 +3,4 @@ class Nodo:
         self.valor = valor
         self.izquierda = None
         self.derecha = None
+        self.altura = 1
